@@ -4,4 +4,6 @@ This code takes an input file containing names and numbers.
 It will then proceed to use heapsort to sort the names and display them, and again to sort the numbers and display them. 
 The output will be displayed on the screen and printed to the output file.
 
+In the assignment, a file of size 5 names/integers was used as a test. Various test prints of only 5 names/integers are included to test that the sort was working correctly.
+
 CS3050 Homework 1
